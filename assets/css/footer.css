@@ -4,6 +4,9 @@ footer {
   display: flex;
   justify-content: space-evenly;
   background: yellow;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
 }
 
 .linkedinlogo {
