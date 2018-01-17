@@ -34,7 +34,7 @@ On top of the grid, there will be a timer, a scoreboard, and the Start and About
 On the left, there will be high scores.
 On the right, there will be the words already made during the current session.
 
-![wireframes](https://github.com/appacademy/ny-portfolio-curriculum/blob/master/javascript-project/js-proposal-wireframe.jpg)
+![wireframes](https://github.com/daybydae/words-with-myself/blob/master/images/wireframe.jpg)
 
 ### Architecture and Technologies
 
