@@ -1,0 +1,23 @@
+{
+  "name": "words-with-myself",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daybydae/words-with-myself.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daybydae/words-with-myself/issues"
+  },
+  "homepage": "https://github.com/daybydae/words-with-myself#readme",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}
