@@ -1,0 +1,16 @@
+footer {
+  padding: 17px 30px;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  background: yellow;
+}
+
+.linkedinlogo {
+  width: 75%;
+}
+
+.personal-website {
+  height: 100%;
+  padding-top: 7px;
+}
