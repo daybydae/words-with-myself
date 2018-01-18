@@ -1,16 +1,16 @@
-# Scrapple for 
+# Words with Myself
 
 ### Background
 
-A word game that allows users to make scores during a 60 second session by forming words given a 4x4 grid of random letters with point values according to Scrabble conventions ([Scrabble letter distribution](https://en.wikipedia.org/wiki/Scrabble_letter_distributions)). 
+A word game that allows users to make scores during a 60 second session by forming words given a 4x4 grid of random letters with point values according to Scrabble conventions ([Scrabble letter distribution](https://en.wikipedia.org/wiki/Scrabble_letter_distributions)).
 <br></br>
-I will be using the Official Scrabble Players Dictionary to check the veracity of submitted words. 
+I will be using the Official Scrabble Players Dictionary to check the veracity of submitted words.
 The selected letters will:
   * change to green for every tile selected
-  * change to red if they don't constitute a valid word 
+  * change to red if they don't constitute a valid word
   * flashes to pink if they do constitute a valid word
   * change to blue if they are already a submitted word
-  
+
 ### Functionality & MVP  
 
 - [ ] Board logic and rendering
@@ -62,16 +62,16 @@ In addition to the entry file, this project will include these scripts:
 
 ### Implementation Timeline
 
-**Day 1**: 
+**Day 1**:
 
 Goals for the day:
-- Setup all necessary Node modules, including getting webpack up 
+- Setup all necessary Node modules, including getting webpack up
 - Install a word-list library
-- Write a basic entry file 
+- Write a basic entry file
 - Write the bare bones of all scripts outlined above
 - Write the board.js file
 
-**Day 2**: 
+**Day 2**:
 
 Goals for the day:
 - Implement word validation
@@ -79,7 +79,7 @@ Goals for the day:
 - Implement game timer
 - Implement user controls
 
-**Day 3**: 
+**Day 3**:
 
 Goals for the day:
 
@@ -89,5 +89,5 @@ Goals for the day:
 
 ### Bonus features
 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]

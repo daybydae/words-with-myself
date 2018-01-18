@@ -7,3 +7,27 @@
       green
     );
 }
+
+header {
+  top: 0;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+.second-nav {
+  height: 100px;
+  width: 100%;
+  display: flex;
+}
+
+.current-selection {
+  height: 100px;
+  width: 100%;
+}
+
+.main-center {
+  height: 100px;
+  width: 100%;
+  bottom:0;
+}
