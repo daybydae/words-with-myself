@@ -89,5 +89,5 @@ Goals for the day:
 
 ### Bonus features
 
-- [ ]
-- [ ]
+- [ ] Add 2 blank tiles and logic behind using them
+- [ ] Add bonuses the user can use after point milestones
