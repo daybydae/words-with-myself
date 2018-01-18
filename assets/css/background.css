@@ -16,7 +16,15 @@ header {
 }
 
 .second-nav {
-  height: 50px;
+  height: 75px;
+  width: 100%;
+  display: flex;
+  vertical-align: middle;
+  justify-content: space-evenly;
+}
+
+.third-nav {
+  height: 75px;
   width: 100%;
   display: flex;
   vertical-align: middle;
@@ -24,9 +32,10 @@ header {
 
 }
 
-.current-selection {
+.current-selection-wrapper {
   height: 100px;
   width: 100%;
+  margin: auto;
 }
 
 .main-center {

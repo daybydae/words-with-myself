@@ -1,5 +1,7 @@
 .timer-wrapper {
   display: flex;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .timer-icon {
@@ -15,6 +17,7 @@
   font-size: 35px;
   font-family: sans-serif;
   margin: auto;
+  border: 1px solid black;
 }
 
 .red {

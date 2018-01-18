@@ -1,0 +1,10 @@
+.score-wrapper {
+  /* padding-top: auto;
+  padding-bottom: auto; */
+
+}
+
+#score {
+  height: 80%;
+  border: 1px solid black;
+}
