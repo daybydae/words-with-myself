@@ -1,0 +1,14 @@
+
+.current-selection-wrapper {
+  height: 100px;
+  width: 60%;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#current-selection {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

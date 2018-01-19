@@ -24,7 +24,8 @@ header {
 }
 
 .third-nav {
-  height: 75px;
+  margin-top: 25px;
+  height: 100px;
   width: 100%;
   display: flex;
   vertical-align: middle;
@@ -32,23 +33,9 @@ header {
 
 }
 
-.current-selection-wrapper {
-  height: 100px;
-  width: 100%;
-  margin: auto;
-}
 
 .main-center {
   height: 100px;
   width: 100%;
   bottom: 0;
-}
-
-.current-selection-wrapper {
-  border: 1px solid black;
-
-}
-
-.play-wrapper {
-
 }
