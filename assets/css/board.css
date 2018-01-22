@@ -8,7 +8,7 @@
   margin-left: 20px;
 }
 
-#board > ul {
+#board ul {
   height: 100%;
   width: 100%;
   padding: 10px;
@@ -26,7 +26,7 @@
   margin: 10px;
   position: relative;
   background: ivory;
-  /* box-shadow:  */
+  cursor: pointer;
 }
 
 .board-tile.letter {
