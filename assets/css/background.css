@@ -1,11 +1,15 @@
 .main-container {
-  background-color: green;
+  background: #1B9F4C;
   min-height: 90vh;
-  background-image:
+  /* background-position: center; */
+  /* background-image: url(https://i.ytimg.com/vi/4nM7mU5EI00/maxresdefault.jpg); */
+  /* background-image: url(https://wallpapertag.com/wallpaper/full/8/7/3/554272-full-size-rainy-day-background-1920x1080.jpg); */
+  /* background-image: url(https://i.ytimg.com/vi/_xKJkdD25c4/maxresdefault.jpg); */
+  /* background-image:
     radial-gradient(
       yellow,
       green
-    );
+    ); */
 }
 
 header {
@@ -29,7 +33,7 @@ header {
 
 .third-nav {
   margin-top: 25px;
-  height: 100px;
+  height: 80px;
   width: 100%;
   display: flex;
   vertical-align: middle;
