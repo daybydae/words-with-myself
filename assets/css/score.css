@@ -7,9 +7,12 @@
 
 #score {
   height: 100%;
-  font-size: 35px;
+  font-size: 50px;
   border: 1px solid black;
   display: flex;
   align-items: center;
-  justify-content: center
+  justify-content: center;
+  color: whitesmoke;
+  font-weight: bold;
+  font-family: sans-serif;
 }
