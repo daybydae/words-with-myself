@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/daybydae/words-with-myself#readme",
   "dependencies": {
+    "firebase": "^4.9.0",
     "papaparse": "^4.3.6",
     "webpack": "^3.10.0"
   }
