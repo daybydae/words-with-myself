@@ -4,6 +4,7 @@
   padding-bottom: auto;
   width: 150px;
   border: 1px solid black;
+  background: #FFC300;
 }
 
 .timer-icon {
@@ -15,7 +16,7 @@
   color: white;
   font-weight: 600;
   font-size: 35px;
-  font-family: sans-serif;
+  font-family: Montserrat;
   margin: auto;
 }
 

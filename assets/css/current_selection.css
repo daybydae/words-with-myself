@@ -1,10 +1,10 @@
 
 .current-selection-wrapper {
   height: 75px;
-  width: 60%;
+  width: 45%;
   margin: auto;
   border: 1px solid black;
-  background: transparent;
+  background: #FFC300;
 }
 
 #current-selection {
@@ -12,5 +12,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 30px;
+  font-size: 50px;
+  color: whitesmoke;
+  font-weight: 700;
+  font-family: Montserrat;
 }

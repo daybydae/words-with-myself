@@ -12,5 +12,8 @@
 }
 
 .play-wrapper {
-
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Montserrat;
 }

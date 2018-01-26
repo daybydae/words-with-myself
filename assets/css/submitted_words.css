@@ -7,12 +7,16 @@
   justify-content: center;
   margin-left: 20px;
   margin-right: 20px;
+  font-family: Montserrat;
+  background: #FFC300;
+  color: whitesmoke;
 }
 
 #submitted-words h2 {
   text-align: center;
   margin: auto;
   padding-top: 15px;
+  color: black;
 }
 
 #submitted-words ul {
@@ -22,10 +26,12 @@
   height: 85%;
   padding-left: 10px;
   padding-right: 10px;
+  text-align: center;
 }
 
 #submitted-words li {
   font-size: 20px;
+  color: whitesmoke;
 }
 
 .submitted-words-list {
