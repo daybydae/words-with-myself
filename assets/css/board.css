@@ -44,6 +44,7 @@
   background: url('../images/tile2.png');
   /* background: linear-gradient(#B3B6B7,#FFFF); */
   background-size: cover;
+  user-select: none;
 }
 
 .chosen {

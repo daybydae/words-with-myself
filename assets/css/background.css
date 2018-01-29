@@ -1,6 +1,7 @@
 .main-container {
   background: #1B9F4C;
   min-height: 90vh;
+  border-radius: 0;
   /* background-position: center; */
   /* background-image: url(https://i.ytimg.com/vi/4nM7mU5EI00/maxresdefault.jpg); */
   /* background-image: url(https://wallpapertag.com/wallpaper/full/8/7/3/554272-full-size-rainy-day-background-1920x1080.jpg); */
