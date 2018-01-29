@@ -64,18 +64,12 @@
         <div class="main-center-wrapper">
 
           <div id="leaderboard">
-            <!-- <div class="instructions">
-              <h2>INSTRUCTIONS:</h2>
-              <br>
-              To start formulating a word, click on a letter tile.<br>
-              Then, drag, while holding the mouse button, to other letter tiles to add to your word.<br>
-              The word you are making can be seen in the box above the grid.<br>
-              Let go of the button to submit your word.<br>
-              If your word is a real word, you will earn the appropriate points.<br>
-              You have 60 seconds to talk to yourself!<br> -->
-            <!-- </div> -->
             <h2>Leaderboard</h2>
-            <ul></ul>
+            <form id="nameform" class="visible">
+              <input type="text" maxlength="10" id="nameinput">Name</input>
+              <button type="submit" id="submitbutton">Submit</button>
+            </form>
+            <ul id="leaders"></ul>
           </div>
 
           <div id="board">
