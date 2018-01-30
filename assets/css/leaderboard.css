@@ -39,6 +39,7 @@
   color: black;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 6px;
 }
 
 #nameform {
@@ -46,17 +47,26 @@
   color: black;
   display: flex;
   justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 
 #submitbutton {
   width: 60px;
   background: red;
   text-align: center;
+  margin-right: 10px;
 }
 
 #nameinput {
   padding: 10px;
   font-size: 14px;
+}
+
+.namelabel {
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
 .hidden {
@@ -71,12 +81,15 @@
 
 .leaderboard-entry.num {
   color: black;
+  text-align: center;
 }
 
 .leaderboard-entry.name {
   color: black;
+  text-align: center;
 }
 
 .leaderboard-entry.score {
-  color: black;
+  color: red;
+  text-align: center;
 }

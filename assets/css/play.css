@@ -17,3 +17,14 @@
   font-weight: 500;
   font-family: Montserrat;
 }
+
+#play:hover {
+  background-color: #EED90A;
+  color: white;
+}
+
+#play:active {
+  background-color: #EED90A;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
+}

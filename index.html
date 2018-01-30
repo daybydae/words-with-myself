@@ -6,6 +6,8 @@
       Words with Myself
     </title>
 
+    <link rel="shortcut icon" href="./assets/images/favicon.ico"/>
+
     <link rel="stylesheet" href="./assets/css/application.css">
     <script src="https://www.gstatic.com/firebasejs/4.9.0/firebase.js"></script>
 
@@ -65,8 +67,9 @@
 
           <div id="leaderboard">
             <h2>Leaderboard</h2>
-            <form id="nameform" class="visible">
-              <input type="text" maxlength="10" id="nameinput">Name</input>
+            <form id="nameform" class="hidden">
+              <label class="namelabel">Name</label>
+              <input type="text" maxlength="10" id="nameinput"></input>
               <button type="submit" id="submitbutton">Submit</button>
             </form>
             <ul id="leaders"></ul>

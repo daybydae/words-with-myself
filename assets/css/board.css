@@ -25,7 +25,16 @@
   margin: 11px;
   position: relative;
   cursor: pointer;
+  font-family: sans-serif;
+
 }
+
+#board li:active {
+  background-color: #FFC300;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
+}
+
 
 .board-tile.letter {
   font-size: 50px;
@@ -34,10 +43,12 @@
 
 .board-tile.points {
   position: absolute;
-  top: 8px;
-  right: 8px;
+  bottom: 12px;
+  right: 12px;
   text-align: right;
-  line-height: 12px;
+  line-height: 14px;
+  font-size: 18px;
+  font-weight: bolder;
 }
 
 .not-chosen {
@@ -49,4 +60,6 @@
 
 .chosen {
   background: #FFC300;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
 }
