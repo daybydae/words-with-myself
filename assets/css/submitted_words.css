@@ -37,3 +37,14 @@
 .submitted-words-list {
 
 }
+
+#pinstructs {
+  color: red;
+  margin: 30px;
+  text-align: center;
+  font-size: 25px;
+}
+
+#red {
+  color: red;
+}

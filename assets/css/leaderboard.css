@@ -53,20 +53,30 @@
 }
 
 #submitbutton {
-  width: 60px;
+  width: 15%;
   background: red;
   text-align: center;
-  margin-right: 10px;
+  margin-right: 15px;
+}
+
+#submitbutton:active {
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
+}
+
+#submitbutton:hover {
+  background: #F33715;
 }
 
 #nameinput {
   padding: 10px;
   font-size: 14px;
+  width: 60%;
 }
 
 .namelabel {
   padding-top: 10px;
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 .hidden {
