@@ -21,7 +21,6 @@
 
 #submitted-words ul {
   margin: 10px;
-  display: flex;
   flex-flow: column wrap;
   height: 85%;
   padding-left: 10px;
@@ -34,7 +33,7 @@
   color: red;
 }
 
-.submitted-words-list {
+#submitted-words-list {
 
 }
 
@@ -47,4 +46,22 @@
 
 #red {
   color: red;
+}
+
+.nodisplay {
+  display: none;
+}
+
+.display {
+  display: flex;
+}
+
+.displaylist {
+  display: flex;
+  margin: 10px;
+  flex-flow: column wrap;
+  height: 85%;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
 }
