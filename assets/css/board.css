@@ -17,12 +17,12 @@
   display: inline-block;
   width: 20%;
   height: 20%;
-  padding-top: 10px;
+  padding-top: 2.5%;
   border-radius: 15px;
   line-height: 60px;
   text-align: center;
   vertical-align: middle;
-  margin: 11px;
+  margin: 2%;
   position: relative;
   cursor: pointer;
   font-family: sans-serif;
@@ -37,17 +37,17 @@
 
 
 .board-tile.letter {
-  font-size: 50px;
+  font-size: 4.5vw;
   font-weight: bold;
 }
 
 .board-tile.points {
   position: absolute;
-  bottom: 12px;
-  right: 12px;
+  bottom: 13%;
+  right: 13%;
   text-align: right;
   line-height: 14px;
-  font-size: 18px;
+  font-size: 1.5vw;
   font-weight: bolder;
 }
 
